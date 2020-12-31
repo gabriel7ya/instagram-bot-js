@@ -1,7 +1,6 @@
   
-
-  
-<p align="center">INSTAGRAM-BOT-JS</p>
+<center>
+<h1 style="text-align: center;">INSTAGRAM-BOT-JS</h1>
 ===============================================================
 
 <!--<img src="scr/screenshot.png" align="center" />-->
@@ -13,7 +12,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+</center>
 
 <!-- TABLE OF CONTENTS -->
 <!--
