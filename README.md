@@ -1,7 +1,7 @@
   
 <center>
-<h1 style="text-align: center;">INSTAGRAM-BOT-JS</h1>
-===============================================================
+
+# INSTAGRAM-BOT-JS
 
 <!--<img src="scr/screenshot.png" align="center" />-->
 ![screenshot](src/screenshot.png) 
