@@ -1,10 +1,10 @@
-  
-<center>
-
-# INSTAGRAM-BOT-JS
-
-<!--<img src="scr/screenshot.png" align="center" />-->
-![screenshot](src/screenshot.png) 
+<h1 align="center">
+<br>
+INSTAGRAM-BOT-JS
+<br>
+<br>
+  <img src="src/screenshot.png" alt="INSTAGRAM-BOT-JS" width="100%">
+<br>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -12,60 +12,42 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</center>
 
-<!-- TABLE OF CONTENTS -->
+</h1>
+
+<p align="center">O projeto visa buscar resultados de postagens de maneira automatizada, a fim de evitar erros e agilizar a produção de tarefas repetitivas.</p>
 <!--
-<details open="open">
-  <summary>Índice</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 -->
-
-
-<!-- ABOUT THE PROJECT -->
 <!--
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Existem muitos modelos README excelentes disponíveis no GitHub, no entanto, não encontrei um que realmente atendesse às minhas necessidades, então criei este aprimorado. Quero criar um modelo README tão incrível que seja o último de que você precisa - acho que é isso.
-
-Aqui está o porquê:
-* Seu tempo deve ser focado em criar algo incrível. Um projeto que resolve um problema e ajuda os outros
-* Você não deve fazer as mesmas tarefas repetidamente como criar um README do zero
-* Você deve incorporar os princípios DRY ao resto de sua vida :smile:
-
-Obviamente, nenhum modelo atenderá a todos os projetos, pois suas necessidades podem ser diferentes. Portanto, estarei adicionando mais em um futuro próximo. Você também pode sugerir alterações bifurcando este repo e criando uma solicitação pull ou abrindo um problema. Obrigado a todas as pessoas que contribuíram para expandir este modelo!
-
-Uma lista de recursos comumente usados que considero úteis está listada nos agradecimentos.
-
-### Built With
-
-O script de automação foi criado com javascript puro em conjunto com as tecnologias NodeJS e o módulo Puppeteer
-* [NodeJs](https://getbootstrap.com)
-* [Puppeter](https://jquery.com)
+[//]: # (Add your gifs/images here:)
+<div>
+  <img src="IMAGE_1_URL" alt="demo" height="425">
+  <img src="IMAGE_2_URL" alt="demo" height="425">
+</div>
 -->
+<hr />
+
+## Features
+[//]: # (Add the features of your project here:)
+This app features all the latest tools and practices in mobile development!
+
+- 💹 **Node Js** — A web framework for Node Js
+- 💹 **Puppeteer** — A lib that provides a way to create native apps for Android and iOS
+
+## Getting started
+
+Describe here the way to use/install your project
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+
 
 
 <!-- GETTING STARTED -->
@@ -135,11 +117,6 @@ Contributions are what make the open source community such an amazing place to b
 
 -->
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
@@ -148,25 +125,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Gabriel Oliveira - [@irmaodomateus](https://instagram.com/irmadomateus) - gabriel@biozsec.com.br
 
 Project Link: [https://github.com/gabriel7lib/instagram-bot-js](https://github.com/gabriel7lib/instagram-bot-js)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-<!--
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
--->
 
 
 
