@@ -5,7 +5,7 @@
 INSTAGRAM-BOT-JS
 <br>
 <br>
-  <img src="src/screenshot.png" alt="INSTAGRAM-BOT-JS" width="100%">
+  <img src="src/screenshot.gif" alt="INSTAGRAM-BOT-JS" width="100%">
 <br>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -132,15 +132,15 @@ Project Link: [https://github.com/gabriel7lib/instagram-bot-js](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/gabriel7lib/instagram-bot-js.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/gabriel7lib/instagram-bot-js?style=for-the-badge
 [contributors-url]: https://github.com/gabriel7lib/instagram-bot-js/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gabriel7lib/instagram-bot-js.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/gabriel7lib/instagram-bot-js?style=for-the-badge
 [forks-url]: https://github.com/gabriel7lib/instagram-bot-js/network/members
-[stars-shield]: https://img.shields.io/github/stars/gabriel7lib/instagram-bot-js.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/gabriel7lib/instagram-bot-js?style=for-the-badge
 [stars-url]: https://github.com/gabriel7lib/instagram-bot-js/stargazers
-[issues-shield]: https://img.shields.io/github/issues/gabriel7lib/instagram-bot-js.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/gabriel7lib/instagram-bot-js?style=for-the-badge
 [issues-url]: https://github.com/gabriel7lib/instagram-bot-js/issues
-[license-shield]: https://img.shields.io/github/license/gabriel7lib/instagram-bot-js.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/gabriel7lib/instagram-bot-js?style=for-the-badge
 [license-url]: https://github.com/gabriel7lib/instagram-bot-js/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gabriel7ya/
