@@ -17,116 +17,64 @@ INSTAGRAM-BOT-JS
 
 </h1>
 
-<p align="center">O projeto visa buscar resultados de postagens de maneira automatizada, a fim de evitar erros e agilizar a produção de tarefas repetitivas.</p>
-<!--
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
-  </a>
-</p>
--->
-<!--
-[//]: # (Add your gifs/images here:)
-<div>
-  <img src="IMAGE_1_URL" alt="demo" height="425">
-  <img src="IMAGE_2_URL" alt="demo" height="425">
-</div>
--->
+<p align="center">O projeto visa buscar resultados de postagens de maneira automatizada, a fim de evitar erros humanos durante a captura e agilizar a produção de tarefas repetitivas nas mídias.</p>
+
 <hr />
 
-## Features
-[//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
 
-- 💹 **Node Js** — A web framework for Node Js
-- 💹 **Puppeteer** — A lib that provides a way to create native apps for Android and iOS
+## Tecnologias e ferramentas utilizadas :hammer_and_wrench:
 
-## Getting started
-
-Describe here the way to use/install your project
+- 💹 **Node Js**
+- 💹 **Puppeteer**
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
-
-
-
-<!-- GETTING STARTED -->
-<!--
-## Getting Started
-
+## Para executar o projeto :computer:
 Para obter uma cópia local instalada e funcionando, siga estas etapas simples do exemplo.
 
-### Prerequisites
-
-Para rodar satisfatoriamente o projeto, você precisará de:
-
-* npm
+1. Clone o repositório
   ```sh
-  npm install npm@latest -g
+  git clone https://github.com/gabriel7lib/instagram-bot-js.git
+  ```
+2. Navegue até o diretório
+  ```sh
+  cd instagram-bot-js
+  ```
+3. Baixe os pacotes (puppeteer)
+  ```sh
+  npm install 
   ```
 
-### Installation
 
-1. Clone the repo
-    ```sh
-    git clone https://github.com/gabriel7lib/instagram-bot-js.git
-    ```
-2. Install NPM packages
-    ```sh
-    npm install
-    ```
-3. Install Puppeteer module
-    ```sh
-    npm install 
-    ```
-4. Enter your API in `config.js`
-    ```JS
-    const API_KEY = 'ENTER YOUR API';
-    ```
--->
+## Como usar :clapper:
 
-<!-- USAGE EXAMPLES -->
-<!--
-## Usage
+4. Rode o comando passando a `URL` da publicação do instagram como argumento
+  ```sh
+  node app [URL_DA_POSTAGEM]
+  ```
 
-Use este espaço para mostrar exemplos úteis de como um projeto pode ser usado. Capturas de tela adicionais, exemplos de código e demos funcionam bem neste espaço. Você também pode acessar mais recursos.
-
-_Para mais exemplos, consulte a [Documentatação](https://biozsec.com.br/instagram-bot-js/v1/)_
--->
+Você deve receber um retorno como esse:
+  ```sh
+  [
+    'user_insta',
+    'user.instagram',
+    'u_insta.gram',
+    'instagram-user',
+    'u.ser_insta',
+  ]
+  ```
+Essas foram as pessoas que comentaram na postagem. O código já elimina repetições.
 
 
-<!-- ROADMAP -->
-<!--
-## Roadmap
-
-Consulte os [problemas em aberto](https://github.com/othneildrew/Best-README-Template/issues) para obter uma lista de recursos propostos (e problemas conhecidos).
--->
-
-
-<!-- CONTRIBUTING -->
-<!-- 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
--->
-
+## Licença
+[![MIT License][license-shield]][license-url]
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Gabriel Oliveira - [@irmaodomateus](https://instagram.com/irmadomateus) - gabriel@biozsec.com.br
 
-Project Link: [https://github.com/gabriel7lib/instagram-bot-js](https://github.com/gabriel7lib/instagram-bot-js)
+Link do projeto: [https://github.com/gabriel7lib/instagram-bot-js](https://github.com/gabriel7lib/instagram-bot-js)
 
 
 
@@ -145,6 +93,3 @@ Project Link: [https://github.com/gabriel7lib/instagram-bot-js](https://github.c
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gabriel7ya/
 [product-screenshot]: images/screenshot.png
-
-
-* * *
